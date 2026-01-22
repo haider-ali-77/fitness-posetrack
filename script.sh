@@ -1,0 +1,1 @@
+python smooth_frame_keypoint_v4_4_101.py --distance 5 --image-ext "PNG" --input_type "video" --input_fps 60 --cam-distance 10 --raw_video "normal" --pelvis "on" --video_type "mov" --pose_detection "off" --line_thicknes 2 --max-frame 30 --output-dir "./outputs/" --video_path "/opt/detectron2/tools/Densepose_mamoon/lauren_backview_2.mov" --output-option 2
