@@ -193,6 +193,21 @@ Fitness posture evaluation
 Physiotherapy analysis
 Sports biomechanics
 Privacy-preserving video analytics
+
+## Sample Output
+<div align="center">
+  <p>
+      <img width="100%" src="./demo_images/Screenshot from 2026-01-22 14-19-27.png" alt="Fitness Poseture Right Foot">
+  </p>
+</div>
+
+## Sample Output
+<div align="center">
+  <p>
+      <img width="100%" src="./demo_images/Screenshot from 2026-01-22 14-20-08.png" alt="Fitness Poseture Left Foot">
+  </p>
+</div>
+
 ### 📜 License
 
 This project is intended for research and development purposes.
